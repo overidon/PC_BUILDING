@@ -16,7 +16,7 @@
         CPU Cooler Air Cooler Heatsink Combos
         
 // 3A.  PUSH config is having air from within the case
-//.     PUSH into the air cooler 
+//      PUSH into the air cooler 
         (potentially air coming from RAM area - this is 
         dependant on the motherboard configuration).
         
@@ -24,3 +24,9 @@
         fan attached to the coolor it should be in PULL
         config to maintain airflow and not create
         static pressure. 
+
+// 4.   ALL IN ONE / RADIATOR CPU COOLERS
+// 4A.  These units should generall be configured to be connected 
+//      To the top of the unit and should have air in PUSH Config
+//      The air should be moving away from the radiatior and 
+//      out of the case.
