@@ -27,6 +27,10 @@
 
 // 4.   ALL IN ONE / RADIATOR CPU COOLERS
 // 4A.  These units should generall be configured to be connected 
-//      To the top of the unit and should have air in PUSH Config
+//      Where the Radiator of the unit and should have air in PUSH Config
 //      The air should be moving away from the radiatior and 
 //      out of the case.
+
+// 4B.  If possible it is good to have the pump level or slightly 
+//      above the radiator tubing in order to avoid extra
+//      pump wear and tear. 
