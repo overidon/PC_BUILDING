@@ -1,5 +1,11 @@
 // ****************************************************************
 // ********************* FAN INFORMATION **************************
 
-// 1. Fan Airflow flow in starting with the NON-Caged Side
-//    The Air flows in toward the caged side 
+// 1.   Fan Airflow flow in starting with the NON-Caged Side
+//      The Air flows in toward the caged side 
+
+
+// 2.   Core Concept for setting up fans for a case
+// 2A.  Have all the intake fans on one general side
+// 2B.  Have all exaust case fans on the opposite side 
+        of the intakes
