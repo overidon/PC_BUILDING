@@ -25,7 +25,7 @@
         config to maintain airflow and not create
         static pressure. 
 
-// 4.   ALL IN ONE / RADIATOR CPU COOLERS
+// 4.   ALL IN ONE / RADIATOR CPU COOLERS - 360 Sized ( 3 Fans of 120mm sized) approx
 // 4A.  These units should generall be configured to be connected 
 //      Where the Radiator of the unit and should have air in PUSH Config
 //      The air should be moving away from the radiatior and 
@@ -34,3 +34,16 @@
 // 4B.  If possible it is good to have the pump level or slightly 
 //      above the radiator tubing in order to avoid extra
 //      pump wear and tear. 
+
+// 4.   ALL IN ONE / RADIATOR CPU COOLERS -  240  Sized ( 2 Fans of 120mm sized) approx
+// 4A.  Basically you don't want the tubing from the CPU pump too high
+
+// 4B.  The idea is to get the CPU / PUMP side slower than the tubing connecting to the radiator
+//      ____
+        | 0 |.\
+        |.  |. \
+        ----   ====(--)
+        
+//.     Also people are recommending that the radiator is connected to the FRONT of the case
+//      and the tubes of the radiator are as high as possible. 
+        
