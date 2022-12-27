@@ -3,9 +3,24 @@
 
 // 1.   Fan Airflow flow in starting with the NON-Caged Side
 //      The Air flows in toward the caged side 
+//      Air PULLS from the NON_CAGED side and PUSHES that air
+        past the CAGED SIDE.
 
 
-// 2.   Core Concept for setting up fans for a case
+// 2.   Core Concept for setting up fans for a CASE
 // 2A.  Have all the intake fans on one general side
 // 2B.  Have all exaust case fans on the opposite side 
         of the intakes
+
+// 3.   PUSH vs PULL configuration for 
+        CPU Cooler Air Cooler Heatsink Combos
+        
+// 3A.  PUSH config is having air from within the case
+//.     PUSH into the air cooler 
+        (potentially air coming from RAM area - this is 
+        dependant on the motherboard configuration).
+        
+// 3B.  PUSH config is optimal and if there is a second
+        fan attached to the coolor it should be in PULL
+        config to maintain airflow and not create
+        static pressure. 
