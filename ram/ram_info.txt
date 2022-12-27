@@ -1,0 +1,18 @@
+
+// ****************************************************************
+// ********************* RAM INFORMATION **************************
+
+// 1. All Modern PC Motherboard have RAM Channels
+//    Usually a DUAL channel will provide greater performance
+//    than a using only 1 of the 2 channels. 
+
+//    Improve performance by using both channels if you only have 
+//    2 ram sticks. 
+//    Consult manual for the correct locations for alternating
+//    ram channels. 
+//    Or use the general rule of thumb of staggering ram 1 one
+//    slot of empty space if there are 4 slots and 2 sticks used.
+
+//    Color coded slots are usually indiciative of an easy way
+//    to make sure you are using both channels if both sticks
+//    are using the SAME color. But this can vary by motherboard.
