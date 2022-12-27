@@ -1,0 +1,5 @@
+// ****************************************************************
+// ********************* FAN INFORMATION **************************
+
+// 1. Fan Airflow flow in starting with the NON-Caged Side
+//    The Air flows in toward the caged side 
